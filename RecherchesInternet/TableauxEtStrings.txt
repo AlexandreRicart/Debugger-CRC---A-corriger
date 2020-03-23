@@ -1,0 +1,14 @@
+Recherche internet les tableaux :
+
+https://openclassrooms.com/fr/courses/19980-apprenez-a-programmer-en-c/15540-les-tableaux
+
+https://openclassrooms.com/fr/courses/218202-apprenez-a-programmer-en-c-sur-net/216944-les-tableaux
+
+https://openclassrooms.com/forum/sujet/scanf-en-c-90369
+
+Recherche internet les strings :
+
+https://openclassrooms.com/fr/courses/19980-apprenez-a-programmer-en-c/15765-les-chaines-de-caracteres
+
+https://docs.microsoft.com/fr-fr/dotnet/standard/io/how-to-read-characters-from-a-string
+
